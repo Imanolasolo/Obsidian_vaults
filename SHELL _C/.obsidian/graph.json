@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:PSEUDOCODIGOS",
+      "color": {
+        "a": 1,
+        "rgb": 5396192
+      }
+    },
+    {
+      "query": "path:TUTORIALES",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:PROGRAMAS",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Notas generales\"",
+      "color": {
+        "a": 1,
+        "rgb": 14945303
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 2.23294117647059,
+  "lineSizeMultiplier": 2.26176470588235,
+  "collapse-forces": true,
+  "centerStrength": 0.432584269662921,
+  "repelStrength": 8.53932584269663,
+  "linkStrength": 0.455056179775281,
+  "linkDistance": 233,
+  "scale": 0.7132754626224425,
+  "close": false
+}

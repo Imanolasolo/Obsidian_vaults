@@ -1,0 +1,1 @@
+Nodo principal donde se adjuntaran las notas generales de proyecto

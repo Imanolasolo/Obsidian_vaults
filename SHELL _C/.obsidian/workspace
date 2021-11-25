@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "ae97d24a704e9b3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "09971b65e6ecccf6",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7497ba2db5ea972",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d660b50b4d608a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76951baba295fe5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2311238c678f21b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9dad05cf534dfd11",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fa9d5c09c73d20f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e71acef7ca63422",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "130452bc709eb113",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3ca5605979e03ac",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "09971b65e6ecccf6",
+  "lastOpenFiles": [
+    "PROGRAMAS/man_1_simple_shell.md",
+    "PROGRAMAS/PROGRAMAS.md",
+    "PROGRAMAS/README.md.md",
+    "Notas generales/Notas generales.md",
+    "Notas generales/Nota 1.md",
+    "PROGRAMAS/AUTHORS.md",
+    "TUTORIALES/Tutoriales.md",
+    "TUTORIALES/Shell Wikipedia.md",
+    "PSEUDOCODIGOS/PSEUDOCODIGOS.md",
+    "Presentacion.md"
+  ]
+}
